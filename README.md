@@ -1,10 +1,6 @@
-![Evolve](evolve_logo.jpeg)
+EVOLVE - WEB3 Course Module
 A Decentralized Educational and Finance App on the Blockchain Utilizing Financial Literacy, Learn & Earn & Community Pooling
-
-## Website
-
-
-
+![Evolve](evolve_logo.jpeg)
 ## This template uses:
 
 - [Next.js](https://nextjs.org/), using static site generation by default.
