@@ -1,4 +1,5 @@
 ![Evolve](evolve_logo.jpeg)
+A Decentralized Educational and Finance App on the Blockchain Utilizing Financial Literacy, Learn & Earn & Community Pooling
 
 ## Website
 
