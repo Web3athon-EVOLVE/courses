@@ -1,4 +1,4 @@
-## Evolve ![Evolve](evolve_logo.png)
+![Evolve](evolve_logo.jpeg)
 
 
 ## This template uses:
