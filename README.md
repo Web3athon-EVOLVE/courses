@@ -1,9 +1,5 @@
-## Evolve
+## Evolve ![Evolve](evolve_logo.png)
 
-
-
-This template was created to be used on
-[my course on React hooks at useEffect.dev](https://useeffect.dev).
 
 ## This template uses:
 
